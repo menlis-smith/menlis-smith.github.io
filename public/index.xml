@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Menlis Smith</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Menlis Smith</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jul 2023 19:13:49 +0300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ormstorm</title>
+      <link>http://example.org/posts/ormstorm/</link>
+      <pubDate>Wed, 12 Jul 2023 19:13:49 +0300</pubDate>
+      
+      <guid>http://example.org/posts/ormstorm/</guid>
+      <description>Welcome to ORMStorm ORMStorm is a small library for easy work with databases.
+The key features are: Simplicity: The library is very simple, and it won&amp;rsquo;t take long to learn it. Coding speed: Integrating the library into your projects won&amp;rsquo;t take long. Dynamic: Unlike others, this library will allow you to very quickly create new tables and add databases to them. Installing pip install ormstorm Usage Using standard tables
+from ormstorm import Table, Types, Column, create_session class ExampleTable(Table): __tablename__ = &amp;#34;example&amp;#34; id = Column(Types.</description>
+    </item>
+    
+  </channel>
+</rss>
