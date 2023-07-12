@@ -1,0 +1,35 @@
+baseURL: https://mastergroosha.github.io/
+languageCode: en-EN
+title: Menlis Smith
+theme: PaperMod
+
+params:
+    env: production
+    title: "Menlis Smith - Home"
+    description: "About"
+    author:
+
+    defaultTheme: auto
+
+    mainSections:
+        - posts
+
+    profileMode:
+        enabled: false
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/menlis-smith"
+        - name: Telegram
+          url: "https://t.me/chazz_potato"
+
+    homeInfoParams:
+        Title: "Hello!"
+        Content: |
+          My name is Menlis. I am a python programmer with two years of experience. 
+          Below you can familiarize yourself with my projects.
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
