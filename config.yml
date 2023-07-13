@@ -1,7 +1,7 @@
 baseURL: https://menlis-smith.github.io
 languageCode: en-EN
 title: Menlis Smith
-theme: PaperModX
+theme: PaperMod
 
 params:
     env: production
