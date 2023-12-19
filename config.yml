@@ -11,6 +11,9 @@ params:
 
     defaultTheme: auto
 
+    assets: 
+        favicon: "favicon.ico"
+
     mainSections:
         - posts
 
