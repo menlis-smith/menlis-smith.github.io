@@ -1,11 +1,11 @@
-baseURL: https://menlis-smith.github.io
+baseURL: https://okw-y.github.io
 languageCode: en-EN
-title: Menlis Smith
+title: OKwy
 theme: PaperModX
 
 params:
     env: production
-    title: "Menlis Smith - Home"
+    title: "OKwy - Home"
     description: "About"
     author:
 
@@ -19,14 +19,14 @@ params:
 
     socialIcons:
         - name: github
-          url: "https://github.com/menlis-smith"
+          url: "https://github.com/okw-y"
         - name: Telegram
-          url: "https://t.me/chazz_potato"
+          url: "https://t.me/okw_y"
 
     homeInfoParams:
         Title: "Hello!"
         Content: |
-          My name is Menlis. I am a python programmer with two years of experience. 
+          My name is OKwy. I am a python programmer with two years of experience. 
           Below you can familiarize yourself with my projects.
 
 markup:
